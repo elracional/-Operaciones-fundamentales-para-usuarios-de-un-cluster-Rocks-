@@ -1,0 +1,3 @@
+(b+a?|bc)*,b+a?.bc.|*#.
+a+|bc,a+bc.#.|
+a*b|cb*,a.bcb*.|#.
